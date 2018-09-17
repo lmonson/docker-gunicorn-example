@@ -1,4 +1,4 @@
-FROM python:2.7-alpine
+FROM python:3.6-alpine
 MAINTAINER Jeff Li <jeff.li@mackenzieinvestments.com>
 
 # Add Tini
